@@ -1,4 +1,4 @@
-[![Maven Package upon a push](https://github.com/mosip/mosip-file-server/actions/workflows/push_trigger.yml/badge.svg?branch=master)](https://github.com/mosip/mosip-file-server/actions/workflows/push_trigger.yml)
+[![Maven Package upon a push](https://github.com/mosip/mosip-file-server/actions/workflows/push_trigger.yml/badge.svg?branch=master(https://github.com/mosip/mosip-file-server/actions/workflows/push_trigger.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?branch=master&project=mosip-file-server
 &metric=alert_status)](https://sonarcloud.io/dashboard?branch=master&id=mosip-file-server)
 
